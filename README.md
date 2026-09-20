@@ -25,7 +25,7 @@
 ### 1. Клонирование
 
 ```bash
-git clone https://github.com/your-username/discord-bot.git
+git clone https://github.com/backendraven/discord-bot.git
 cd discord-bot
 ```
 
